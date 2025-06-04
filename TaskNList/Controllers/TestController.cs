@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using TaskNList.Models;
+using TaskNList.ViewModels;
 
 namespace TaskNList.Controllers
 {
@@ -35,6 +36,18 @@ namespace TaskNList.Controllers
         public IActionResult Message()
         {
             return View();
+        }
+
+        public IActionResult ViewModel()
+        {
+            var todo = new Todo { Title = "Estudar C#", Description = "Vai estudar seu vagabundo!" };
+            var viewModel = new DetailsTodoViewModel
+            {
+                Todo = todo,
+                PageTitle = "Task Details"
+            };
+
+            return View(viewModel);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
