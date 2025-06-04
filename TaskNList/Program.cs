@@ -1,7 +1,12 @@
+using TaskNList.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Register the DbContext with dependency injection
+builder.Services.AddDbContext<AppDbContext>();
 
 var app = builder.Build();
 
