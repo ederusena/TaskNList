@@ -19,7 +19,6 @@ A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\scopedcss\Views\Shared\_Lay
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\scopedcss\bundle\TaskNList.styles.css
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\scopedcss\projectbundle\TaskNList.bundle.scp.css
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\2oyrp7q88s-b9sayid5wm.gz
-A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\owpdx8lcxy-61n19gt1b8.gz
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\xo1ivd0n3i-xtxxf3hu2r.gz
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\29t327mhhi-bqjiyaj88i.gz
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\891odiaiu8-c2jlpeoesf.gz
@@ -96,3 +95,4 @@ A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\refint\TaskNList.dll
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\TaskNList.pdb
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\TaskNList.genruntimeconfig.cache
 A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\ref\TaskNList.dll
+A:\Mentoria Net\TaskNList\TaskNList\obj\Debug\net9.0\compressed\owpdx8lcxy-4d6ajn3t08.gz

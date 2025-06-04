@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uwM2y6s3lub5WlsSN3x7IP0OARCyQFxTLqKt8Fz56uI=",
+  "Hash": "rkGtBKdPCq8xv7uznnIoR6Bze1cVTvOb0RP+awMCfRE=",
   "Source": "TaskNList",
   "BasePath": "_content/TaskNList",
   "Mode": "Default",
@@ -983,12 +983,12 @@
       "OriginalItemSpec": "A:\\Mentoria Net\\TaskNList\\TaskNList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-61n19gt1b8.gz",
+      "Identity": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-4d6ajn3t08.gz",
       "SourceId": "TaskNList",
       "SourceType": "Discovered",
       "ContentRoot": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TaskNList",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=4d6ajn3t08}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -997,8 +997,8 @@
       "RelatedAsset": "A:\\Mentoria Net\\TaskNList\\TaskNList\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nezsohjtde",
-      "Integrity": "wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=",
+      "Fingerprint": "64l7v79jbl",
+      "Integrity": "Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Mentoria Net\\TaskNList\\TaskNList\\wwwroot\\favicon.ico"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "4d6ajn3t08",
+      "Integrity": "SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -3026,13 +3026,13 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-61n19gt1b8.gz",
+      "Route": "favicon.4d6ajn3t08.ico",
+      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-4d6ajn3t08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000260416667"
         }
       ],
       "ResponseHeaders": [
@@ -3042,15 +3042,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "3839"
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3070,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "4d6ajn3t08"
         },
         {
           "Name": "label",
@@ -3084,12 +3084,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.4d6ajn3t08.ico",
       "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3099,7 +3099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3107,11 +3107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3121,7 +3121,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "4d6ajn3t08"
         },
         {
           "Name": "label",
@@ -3129,13 +3129,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-61n19gt1b8.gz",
+      "Route": "favicon.4d6ajn3t08.ico.gz",
+      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-4d6ajn3t08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3144,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "3839"
         },
         {
           "Name": "Content-Type",
@@ -3152,11 +3152,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3174,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "4d6ajn3t08"
         },
         {
           "Name": "label",
@@ -3182,18 +3182,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+          "Value": "sha256-Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-61n19gt1b8.gz",
+      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-4d6ajn3t08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000260416667"
         }
       ],
       "ResponseHeaders": [
@@ -3203,15 +3203,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "3839"
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3231,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA="
         }
       ]
     },
@@ -3252,7 +3252,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3260,11 +3260,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,13 +3274,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-SKKCnm2Dz2i7ebUvs5TfMFFtag5gcKRm+ruJ6os0uKA="
         }
       ]
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-61n19gt1b8.gz",
+      "AssetFile": "A:\\Mentoria Net\\TaskNList\\TaskNList\\obj\\Debug\\net9.0\\compressed\\owpdx8lcxy-4d6ajn3t08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3289,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "3839"
         },
         {
           "Name": "Content-Type",
@@ -3297,11 +3297,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 13:45:48 GMT"
+          "Value": "Wed, 04 Jun 2025 13:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3319,7 +3319,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+          "Value": "sha256-Wk4AUHAgNTSYVO8JhE/cPWrRmDN5obyLS4aXAltqHg4="
         }
       ]
     },
