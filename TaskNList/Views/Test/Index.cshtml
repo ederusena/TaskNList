@@ -1,6 +1,24 @@
 ﻿@{
     ViewData["Title"] = "Test Page";
+    var todo = ViewData["Todo"] as Todo;
 }
+
 <h1>@ViewData["Title"]</h1>
 
-<p>TEST TEST</p>
+<p>@ViewData["Message"]</p>
+<p>@ViewData["Time"]</p>
+<p>@ViewData["User"]</p>
+
+<p>
+    @{
+        if (todo != null)
+        {
+            <span>Todo Title: @todo.Title</span><br />
+            <span>Todo Description: @todo.Description</span>
+        }
+        else
+        {
+            <span>No Todo data available.</span>
+        }
+    }
+</p>

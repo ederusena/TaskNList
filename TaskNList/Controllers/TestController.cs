@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using TaskNList.Models;
 
 namespace TaskNList.Controllers
 {
@@ -19,6 +20,13 @@ namespace TaskNList.Controllers
 
         public IActionResult Index()
         {
+            ViewData["Message"] = "Welcome to the Test Page!";
+            ViewData["Time"] = DateTime.Now.ToString("F");
+            ViewData.Add("User", User.Identity?.Name ?? "Guest");
+
+            var todo = new Todo { Title = "Sample Task", Description = "This is a sample task description." };
+
+            ViewData["Todo"] = todo;
             return View();
         }
 
