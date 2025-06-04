@@ -25,6 +25,15 @@ namespace TaskNList.Controllers
             var todo = new Todo { Title = "Sample Task", Description = "This is a sample task description." };
 
             ViewBag.Todo = todo;
+
+            TempData["TempMessage"] = "This is a temporary message that will disappear after the next request.";
+
+
+            return View();
+        }
+
+        public IActionResult Message()
+        {
             return View();
         }
 
