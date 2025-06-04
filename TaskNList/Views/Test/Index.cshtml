@@ -1,13 +1,9 @@
 ﻿@{
     ViewData["Title"] = "Test Page";
-    var todo = ViewData["Todo"] as Todo;
+    var todo = ViewBag.Todo;
 }
 
 <h1>@ViewData["Title"]</h1>
-
-<p>@ViewData["Message"]</p>
-<p>@ViewData["Time"]</p>
-<p>@ViewData["User"]</p>
 
 <p>
     @{
