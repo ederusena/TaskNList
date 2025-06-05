@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Id]
+      ,[Title]
+      ,[Date]
+      ,[IsCompleted]
+  FROM [TaskNList].[dbo].[Todo]
